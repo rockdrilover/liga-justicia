@@ -9,6 +9,3 @@ Pueden hacer lo que quieran...
 
 
 ### actualizado desde GIT WEB
- 
-
- vamos a ver que passa con el FF
