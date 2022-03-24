@@ -8,10 +8,6 @@ Pueden hacer lo que quieran...
 # liga-justicia
 
 
-<<<<<<< HEAD
 ### actualizado desde GIT WEB
 
 cambios locales
-=======
-### cambios git web
->>>>>>> 6c67bf056082a9c96fb4b9a5151096a82cca036e
